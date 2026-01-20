@@ -1,5 +1,6 @@
+-Deliverables
 
---- A jove video explaining the worflow 
--
--
----A reproducible code for the networks we generate
+
+-A jove video epxlaining the wet lab workflow and procedures and treatments
+
+-A reproducible code for the networks we generate
